@@ -133,7 +133,7 @@ class BestBooks extends React.Component {
         <BookUpdateFormModal
           show={this.state.showUpdateModal}
           onHide={this.toggleUpdateModal}
-          // updateBook={this.updateBook}
+          updateBook={this.updateBook}
           currentBook={this.currentBook}
         />
         {this.state.books.length ? (
