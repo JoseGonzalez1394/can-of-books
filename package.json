@@ -41,18 +41,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "**Author**: Megan Seibert-Hughes and Jose Gonzales **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maefae/can-of-books-frontend.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/maefae/can-of-books-frontend/issues"
-  },
-  "homepage": "https://github.com/maefae/can-of-books-frontend"
+  }
 }
